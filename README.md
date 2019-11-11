@@ -1,1 +1,2 @@
 # COSC
+COSC related stuff
